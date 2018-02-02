@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     TextView txt,txt2;
     int pos = 0;
     int posProcess;
-
+//Cuong was here
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
