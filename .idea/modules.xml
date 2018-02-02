@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BT_ConstraintLayout.iml" filepath="$PROJECT_DIR$/BT_ConstraintLayout.iml" />
+      <module fileurl="file://C:\Users\HV\Desktop\Ple\sadas\BT_ConstraintLayout\BT_ConstraintLayout.iml" filepath="C:\Users\HV\Desktop\Ple\sadas\BT_ConstraintLayout\BT_ConstraintLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\HV\Desktop\Ple\sadas\BT_ConstraintLayout\app\app.iml" filepath="C:\Users\HV\Desktop\Ple\sadas\BT_ConstraintLayout\app\app.iml" />
     </modules>
   </component>
 </project>
